@@ -1,3 +1,3 @@
 # wicak.github.io
 
-Test
+Dummy project from HTML & CSS Part I Lessons
